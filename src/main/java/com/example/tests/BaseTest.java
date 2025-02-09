@@ -10,6 +10,11 @@ public class BaseTest {
         System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         driver = new ChromeDriver();
 // this is my code that i need to practice and sit behined the scenes.
+// this is my code that i need to practice and sit behined the scenes.
+// this is my code that i need to practice and sit behined the scenes.
+// this is my code that i need to practice and sit behined the scenes.
+// this is my code that i need to practice and sit behined the scenes.
+
         driver.manage().window().maximize();
     }
 
